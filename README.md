@@ -1,4 +1,9 @@
 # IP_Entropy
+
+### About The Project
+
+![ip_entropy](https://github.com/user-attachments/assets/708c2e8b-e058-4adb-a04e-d21507fe33d9)
+
 This script automatically changes your public IP address using the Tor network
 
 ### Features
