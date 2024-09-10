@@ -7,7 +7,7 @@ import argparse
 VERSION = "1.0.0"
 
 # Argument parser setup
-parser = argparse.ArgumentParser(description="Tor IP Changer Script")
+parser = argparse.ArgumentParser(description="IP Entropy Script")
 parser.add_argument('-v', '--version', action='store_true', help="Show the version of the script")
 args = parser.parse_args()
 
